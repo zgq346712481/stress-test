@@ -1,6 +1,6 @@
 baseApi: 'http://umsucheck.niceloo.com'
 token: '85DE47D0F0804689B8E4FAB8C1231B43'
-time: '600s'
+time: '6s'
 apis:
   # 课程中心
   - url: '/api/cc/keyframe/relate/answersheet/info'
